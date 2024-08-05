@@ -36,7 +36,6 @@ python manage.py startapp <app_name> apps/<app_name>
 Rename AppName to include apps name in the apps/<app_name>/apps.py file:
 ```
     name = 'apps.todo'
-
 ```
 
 Add the app to the installed apps in config/settings.py:
